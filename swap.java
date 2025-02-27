@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Swap
+public class swap
 {
   public static void main(String[] args)
   {
@@ -13,5 +13,6 @@ public class Swap
     b = temp;
     System.out.println("A Value: "+a);
     System.out.println("B Value: "+b);
+    sc.close();
   }
 }

@@ -10,5 +10,6 @@ class Natural_Number
         {
           System.out.print(i+" ");
         }
+        sc.close();
     }
   }

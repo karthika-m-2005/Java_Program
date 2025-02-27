@@ -7,7 +7,7 @@ class Add_Three
       int a = sc.nextInt();
       int b = sc.nextInt();
       int c = sc.nextInt();
-      int d = a+b+c:
+      int d = a+b+c;
       System.out.println("Sum of Three Number:"+d);
       sc.close();
     }

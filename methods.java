@@ -1,5 +1,5 @@
 
- public class Main
+ public class methods
  {
      static  int BoxVolume(int i, int j, int k) {
 		int vol = i*j*k;

@@ -34,7 +34,7 @@ class Students
 	
 }
 
-public class Marks {
+public class marks {
 
 	public static void main(String[] args) {
 	

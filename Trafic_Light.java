@@ -4,7 +4,7 @@ enum Light
   }
 class Trafic_Light
   {
-    public static void main(Stringp[] args)
+    public static void main(String[] args)
     {
       Light l = Light.RED;
       if(l == Light.RED)
@@ -19,5 +19,6 @@ class Trafic_Light
       {
         System.out.println("GO");
       }
+    
     }
   }

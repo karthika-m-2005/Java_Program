@@ -10,7 +10,7 @@ class Find_Large_Num_pro
 
     if(a>b && a>c)
     {
-      System.out.pritnln(a+" is a greatest Number");
+      System.out.println(a+" is a greatest Number");
     }
       else if(b>a && b>c)
       {

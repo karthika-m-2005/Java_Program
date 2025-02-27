@@ -8,5 +8,6 @@ class add
       int b = sc.nextInt();
       int c = a+b;
       System.out.println("Sum of a and b:"+c);
+      sc.close();
     }
   }

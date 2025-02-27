@@ -17,5 +17,6 @@ class Sum_Even
       {
         System.out.println("The Sum of "+a+" and "+b+" is Odd Number");
       }
+      sc.close();
     }
   }

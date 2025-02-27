@@ -17,6 +17,7 @@ public class Fibonacci_series {
 			num2 = num3;
 			
 		}
+		sc.close();
 		
 		
 		

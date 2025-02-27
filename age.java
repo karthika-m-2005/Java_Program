@@ -16,12 +16,13 @@ class Age
       }
       else if(Age>=20 && Age<=64)
       {
-        Sysyem.out.println("Adult");
+        System.out.println("Adult");
       }
       else if(Age>=65)
       {
         System.out.println("Senior");
       }
+      sc.close();
     }
   }
 
