@@ -32,7 +32,7 @@ public class Strong_Number {
 	public static void main(String[] args) 
 	{
 		Scanner sc = new Scanner(System.in);
-		System.out.print("Enter the Number: ");
+		System.out.print("Enter a Number: ");
 		int n = sc.nextInt();
 		
 		System.out.println(n+ " is a Strong Number(true/false): "+ strongnumber(n));
